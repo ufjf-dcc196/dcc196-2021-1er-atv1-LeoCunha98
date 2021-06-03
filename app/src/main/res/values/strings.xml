@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Exercicio 01</string>
+    <string name="matricula">201676019</string>
+    <string name="matricula_label">Matrícula:</string>
+    <string name="nome_label">Nome:</string>
+    <string name="nome">Leonardo Cunha</string>
 </resources>
